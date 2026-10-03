@@ -1,0 +1,6 @@
+{
+  "name": "Cabinet Dr Lalla Achouak Benlaghlid — Dentisterie & Médecine Esthétique à Mohammedia",
+  "description": "Cabinet dentaire et médecine esthétique du Dr Lalla Achouak Benlaghlid à Mohammedia. Soins dentaires, implantologie, facettes, orthodontie et médecine esthétique avec écoute et précision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
